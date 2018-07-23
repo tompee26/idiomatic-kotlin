@@ -39,11 +39,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewCreator.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap09_lambda_receiver_dsl/ViewCreator.kt">
+      <file leaf-file-name="ElvisSyntax.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap10_elvis_operator/ElvisSyntax.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="102">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpandedElvis.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap10_elvis_operator/ExpandedElvis.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SafeCall.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap10_elvis_operator/SafeCall.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -102,6 +120,10 @@
         <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/View.java" />
         <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/SAMConversion.kt" />
         <option value="$PROJECT_DIR$/src/chap09_lambda_receiver_dsl/ViewCreator.kt" />
+        <option value="$PROJECT_DIR$/src/chap10_elvis_operator/ElvisOperator.kt" />
+        <option value="$PROJECT_DIR$/src/chap10_elvis_operator/ElvisSyntax.kt" />
+        <option value="$PROJECT_DIR$/src/chap10_elvis_operator/ExpandedElvis.kt" />
+        <option value="$PROJECT_DIR$/src/chap10_elvis_operator/SafeCall.kt" />
       </list>
     </option>
   </component>
@@ -134,19 +156,7 @@
               <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap07_sequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap08_lambdas_sam_constructors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap09_lambda_receiver_dsl" type="462c0819:PsiDirectoryNode" />
+              <item name="chap10_elvis_operator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,7 +308,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32943678" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -481,6 +491,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap09_lambda_receiver_dsl/ViewCreator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/SAMConversion.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -488,10 +505,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap09_lambda_receiver_dsl/ViewCreator.kt">
+    <entry file="file://$PROJECT_DIR$/src/chap10_elvis_operator/ElvisSyntax.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap10_elvis_operator/ExpandedElvis.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap10_elvis_operator/SafeCall.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
