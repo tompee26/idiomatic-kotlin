@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="499b111b-e868-4f18-87b5-e007ec0e15b0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="499b111b-e868-4f18-87b5-e007ec0e15b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Singleton.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap06_object_and_singleton/Singleton.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SequenceSample.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap07_sequence/SequenceSample.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -79,6 +86,8 @@
         <option value="$PROJECT_DIR$/src/chap05_local_function/LocalFunction.kt" />
         <option value="$PROJECT_DIR$/src/chap06_object_and_singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/chap06_object_and_singleton/Singleton.kt" />
+        <option value="$PROJECT_DIR$/src/chap07_sequence/Sequence.kt" />
+        <option value="$PROJECT_DIR$/src/chap07_sequence/SequenceSample.kt" />
       </list>
     </option>
   </component>
@@ -111,7 +120,7 @@
               <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap06_object_and_singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="chap07_sequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -403,6 +412,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap07_sequence/SequenceSample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
         </state>
       </provider>
     </entry>
