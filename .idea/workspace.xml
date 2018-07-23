@@ -30,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SAMConversion.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SAMConversion.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/SAMConversion.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewCreator.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap09_lambda_receiver_dsl/ViewCreator.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -53,8 +62,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -92,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/LambdaPass.kt" />
         <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/View.java" />
         <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/SAMConversion.kt" />
+        <option value="$PROJECT_DIR$/src/chap09_lambda_receiver_dsl/ViewCreator.kt" />
       </list>
     </option>
   </component>
@@ -132,6 +142,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chap08_lambdas_sam_constructors" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chap09_lambda_receiver_dsl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -154,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chap14_lambda_and_control_flows.InlineReturnKt">
+  <component name="RunManager" selected="Kotlin.chap09_lambda_receiver_dsl.ViewCreatorKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -173,6 +189,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="chap09_lambda_receiver_dsl.ViewCreatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="IdiomaticKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap09_lambda_receiver_dsl.ViewCreatorKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="chap14_lambda_and_control_flows.AnonymousFunctionReturnsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="IdiomaticKotlin" />
@@ -241,9 +267,11 @@
       <item itemvalue="Kotlin.chap14_lambda_and_control_flows.ReturnWithLabelsKt" />
       <item itemvalue="Kotlin.chap14_lambda_and_control_flows.AnonymousFunctionReturnsKt" />
       <item itemvalue="Kotlin.chap14_lambda_and_control_flows.InlineReturnKt" />
+      <item itemvalue="Kotlin.chap09_lambda_receiver_dsl.ViewCreatorKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chap09_lambda_receiver_dsl.ViewCreatorKt" />
         <item itemvalue="Kotlin.chap14_lambda_and_control_flows.InlineReturnKt" />
         <item itemvalue="Kotlin.chap14_lambda_and_control_flows.AnonymousFunctionReturnsKt" />
         <item itemvalue="Kotlin.chap14_lambda_and_control_flows.ReturnWithLabelsKt" />
@@ -457,6 +485,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap09_lambda_receiver_dsl/ViewCreator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
