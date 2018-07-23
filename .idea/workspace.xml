@@ -41,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SealedClass.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SealedClass.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap02_sealed_classes/SealedClass.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InfixFunction.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap03_infix_function/InfixFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -82,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/chap01_extension_functions/ExtensionProperties.kt" />
         <option value="$PROJECT_DIR$/src/chap02_sealed_classes/LegacyApproach.kt" />
         <option value="$PROJECT_DIR$/src/chap02_sealed_classes/SealedClass.kt" />
+        <option value="$PROJECT_DIR$/src/chap03_infix_function/InfixFunction.kt" />
       </list>
     </option>
   </component>
@@ -114,13 +124,7 @@
               <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap01_extension_functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap02_sealed_classes" type="462c0819:PsiDirectoryNode" />
+              <item name="chap03_infix_function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -377,6 +381,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03_infix_function/InfixFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
