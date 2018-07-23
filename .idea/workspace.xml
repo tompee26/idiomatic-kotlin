@@ -26,17 +26,26 @@
       <file leaf-file-name="InheritanceAndPolymorphism.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap01_extension_functions/InheritanceAndPolymorphism.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtensionProperties.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap01_extension_functions/ExtensionProperties.kt">
+      <file leaf-file-name="LegacyApproach.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap02_sealed_classes/LegacyApproach.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SealedClass.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap02_sealed_classes/SealedClass.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -71,6 +80,8 @@
         <option value="$PROJECT_DIR$/src/chap01_extension_functions/ExtensionFunction.kt" />
         <option value="$PROJECT_DIR$/src/chap01_extension_functions/InheritanceAndPolymorphism.kt" />
         <option value="$PROJECT_DIR$/src/chap01_extension_functions/ExtensionProperties.kt" />
+        <option value="$PROJECT_DIR$/src/chap02_sealed_classes/LegacyApproach.kt" />
+        <option value="$PROJECT_DIR$/src/chap02_sealed_classes/SealedClass.kt" />
       </list>
     </option>
   </component>
@@ -104,6 +115,12 @@
               <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chap01_extension_functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chap02_sealed_classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,17 +352,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap01_extension_functions/InheritanceAndPolymorphism.kt">
+    <entry file="file://$PROJECT_DIR$/src/chap01_extension_functions/ExtensionProperties.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap01_extension_functions/ExtensionProperties.kt">
+    <entry file="file://$PROJECT_DIR$/src/chap01_extension_functions/InheritanceAndPolymorphism.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap02_sealed_classes/LegacyApproach.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap02_sealed_classes/SealedClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
