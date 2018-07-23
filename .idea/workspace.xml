@@ -12,26 +12,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DelegationSample.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap04_class_delegation/DelegationSample.kt">
+      <file leaf-file-name="Invoke.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/Invoke.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocalFunction.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap05_local_function/LocalFunction.kt">
+      <file leaf-file-name="LambdaPass.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/LambdaPass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap06_object_and_singleton/Singleton.kt">
+      <file leaf-file-name="SAMConversion.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/SAMConversion.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
@@ -39,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SequenceSample.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap07_sequence/SequenceSample.kt">
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/View.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="68">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -53,8 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -88,6 +88,10 @@
         <option value="$PROJECT_DIR$/src/chap06_object_and_singleton/Singleton.kt" />
         <option value="$PROJECT_DIR$/src/chap07_sequence/Sequence.kt" />
         <option value="$PROJECT_DIR$/src/chap07_sequence/SequenceSample.kt" />
+        <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/Invoke.kt" />
+        <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/LambdaPass.kt" />
+        <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/View.java" />
+        <option value="$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/SAMConversion.kt" />
       </list>
     </option>
   </component>
@@ -121,6 +125,12 @@
               <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chap07_sequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chap08_lambdas_sam_constructors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -417,8 +427,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chap07_sequence/SequenceSample.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        <state relative-caret-position="153">
+          <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/Invoke.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/LambdaPass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap08_lambdas_sam_constructors/SAMConversion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
