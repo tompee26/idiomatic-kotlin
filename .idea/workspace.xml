@@ -42,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObservableTest.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ObservableTest.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap11_property_delegation/ObservableTest.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionType.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap12_higher_order_function_and_function_type/FunctionType.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="96" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -104,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/chap11_property_delegation/Delegate.kt" />
         <option value="$PROJECT_DIR$/src/chap11_property_delegation/LazyTest.kt" />
         <option value="$PROJECT_DIR$/src/chap11_property_delegation/ObservableTest.kt" />
+        <option value="$PROJECT_DIR$/src/chap12_higher_order_function_and_function_type/FunctionType.kt" />
       </list>
     </option>
   </component>
@@ -136,7 +146,7 @@
               <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap11_property_delegation" type="462c0819:PsiDirectoryNode" />
+              <item name="chap12_higher_order_function_and_function_type" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -534,6 +544,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap12_higher_order_function_and_function_type/FunctionType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="96" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
         </state>
       </provider>
     </entry>
