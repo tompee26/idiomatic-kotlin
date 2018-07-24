@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="499b111b-e868-4f18-87b5-e007ec0e15b0" name="Default" comment="" />
+    <list default="true" id="499b111b-e868-4f18-87b5-e007ec0e15b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,20 +14,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReifiedParameter.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap15_reified_parameters/ReifiedParameter.kt">
+      <file leaf-file-name="LambdaReturn.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/LambdaReturn.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReifiedParameter.decompiled.java" pinned="false" current-in-tab="false">
-        <entry file="dummy://kotlinDecompiled/ReifiedParameter.decompiled.java">
+      <file leaf-file-name="NotinlineLambdaReturn.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/NotinlineLambdaReturn.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InlineReturn.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/InlineReturn.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Crossinline.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap16_noinline_crossinline/Crossinline.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -54,10 +74,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/LamdaReturn.kt" />
-        <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/LambdaReturn.kt" />
         <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/ReturnWithLabels.kt" />
         <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/AnonymousFunctionReturns.kt" />
-        <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/InlineReturn.kt" />
         <option value="$PROJECT_DIR$/src/chap01_extension_functions/ExtensionFunction.kt" />
         <option value="$PROJECT_DIR$/src/chap01_extension_functions/InheritanceAndPolymorphism.kt" />
         <option value="$PROJECT_DIR$/src/chap01_extension_functions/ExtensionProperties.kt" />
@@ -93,6 +111,12 @@
         <option value="$PROJECT_DIR$/src/chap15_reified_parameters/TypeErasureLimitation.kt" />
         <option value="$PROJECT_DIR$/src/chap15_reified_parameters/ReifiedParameter.kt" />
         <option value="$PROJECT_DIR$/src/chap15_reified_parameters/EventAggregator.kt" />
+        <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/InlineReturn.kt" />
+        <option value="$PROJECT_DIR$/src/chap16_noinline_crossinline/Noinline.kt" />
+        <option value="$PROJECT_DIR$/src/chap16_noinline_crossinline/Safidfngd.java" />
+        <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/LambdaReturn.kt" />
+        <option value="$PROJECT_DIR$/src/chap14_lambda_and_control_flows/NotinlineLambdaReturn.kt" />
+        <option value="$PROJECT_DIR$/src/chap16_noinline_crossinline/Crossinline.kt" />
       </list>
     </option>
   </component>
@@ -125,7 +149,13 @@
               <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap15_reified_parameters" type="462c0819:PsiDirectoryNode" />
+              <item name="chap14_lambda_and_control_flows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idiomatic-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idiomatic-kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chap16_noinline_crossinline" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chap09_lambda_receiver_dsl.ViewCreatorKt">
+  <component name="RunManager" selected="Kotlin.chap16_noinline_crossinline.CrossinlineKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -199,16 +229,6 @@
       <option name="MAIN_CLASS_NAME" value="chap14_lambda_and_control_flows.InlineReturnKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="chap14_lambda_and_control_flows.LambdaReturnKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="IdiomaticKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap14_lambda_and_control_flows.LambdaReturnKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration name="chap14_lambda_and_control_flows.ReturnWithLabelsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="IdiomaticKotlin" />
       <option name="VM_PARAMETERS" />
@@ -217,6 +237,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="chap14_lambda_and_control_flows.ReturnWithLabelsKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="chap16_noinline_crossinline.CrossinlineKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="IdiomaticKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap16_noinline_crossinline.CrossinlineKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -242,19 +272,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.chap14_lambda_and_control_flows.LambdaReturnKt" />
       <item itemvalue="Kotlin.chap14_lambda_and_control_flows.ReturnWithLabelsKt" />
       <item itemvalue="Kotlin.chap14_lambda_and_control_flows.AnonymousFunctionReturnsKt" />
       <item itemvalue="Kotlin.chap14_lambda_and_control_flows.InlineReturnKt" />
       <item itemvalue="Kotlin.chap09_lambda_receiver_dsl.ViewCreatorKt" />
+      <item itemvalue="Kotlin.chap16_noinline_crossinline.CrossinlineKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chap16_noinline_crossinline.CrossinlineKt" />
         <item itemvalue="Kotlin.chap09_lambda_receiver_dsl.ViewCreatorKt" />
         <item itemvalue="Kotlin.chap14_lambda_and_control_flows.InlineReturnKt" />
         <item itemvalue="Kotlin.chap14_lambda_and_control_flows.AnonymousFunctionReturnsKt" />
         <item itemvalue="Kotlin.chap14_lambda_and_control_flows.ReturnWithLabelsKt" />
-        <item itemvalue="Kotlin.chap14_lambda_and_control_flows.LambdaReturnKt" />
       </list>
     </recent_temporary>
   </component>
@@ -335,31 +365,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/LambdaReturn.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/ReturnWithLabels.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/AnonymousFunctionReturns.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/InlineReturn.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -601,6 +610,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/AnonymousFunctionReturns.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap16_noinline_crossinline/Safidfngd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap16_noinline_crossinline/Noinline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1489" column="34" selection-start-line="1489" selection-start-column="34" selection-end-line="1489" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/LambdaReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/NotinlineLambdaReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap14_lambda_and_control_flows/InlineReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap16_noinline_crossinline/Crossinline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
