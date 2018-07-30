@@ -16,5 +16,10 @@ Contains all the code presented in the Idiomatic Kotlin tutorial series.
 12. [Idiomatic Kotlin: Higher-order functions and Function Types](https://medium.com/tompee/idiomatic-kotlin-higher-order-functions-and-function-types-adb59172796)
 13. [Idiomatic Kotlin: Inline functions](https://medium.com/tompee/idiomatic-kotlin-inline-functions-e39b2f90a291)
 14. [Idiomatic Kotlin: Lambdas and Control Flows](https://medium.com/tompee/idiomatic-kotlin-lambdas-and-control-flows-70a7a58d7a20)
+15. [Idiomatic Kotlin: Reified Parameters](https://medium.com/tompee/idiomatic-kotlin-reified-parameters-e89f665ab026)
+16. [Idiomatic Kotlin: Noinline and Crossinline](https://medium.com/tompee/idiomatic-kotlin-noinline-and-crossinline-e51014408ff0)
+17. [Idiomatic Kotlin: Variance](https://medium.com/tompee/idiomatic-kotlin-variance-82355d9a71df)
+18. [Idiomatic Kotlin: Annotations and Reflection](https://medium.com/tompee/kotlin-annotations-and-reflection-caa0d73bf39b)
+19. [Idiomatic Kotlin: Annotation Processor and Code Generation](https://medium.com/tompee/kotlin-annotation-processor-and-code-generation-58bd7d0d333b)
 
 Check out all the other articles on the publication as well [here](https://medium.com/tompee).
